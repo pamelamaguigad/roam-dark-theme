@@ -96,8 +96,8 @@ body {
 
     /* hashtags */
     .rm-page-ref-tag {
-        color: #f6f7ed !important;
-        background: #6f4ebb;
+        color: #6f4ebb !important;
+        background: #090b10;
         padding: .1em .6em;
         border-radius: 12px;
     }
