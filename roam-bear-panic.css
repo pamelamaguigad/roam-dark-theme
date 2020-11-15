@@ -20,6 +20,10 @@ body {
         color: #f9b637;
     }
 
+    .log-button {
+        color: #5C7080 !important;
+    }
+
 
     /* Background color for the rest of body */
     body {
