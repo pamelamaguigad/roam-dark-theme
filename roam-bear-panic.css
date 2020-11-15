@@ -201,6 +201,11 @@ body {
         color: #b79bcd;
     }
 
+    /* headings */
+    h1 {
+        font-size: 30px;
+    }
+
     /* CodeMirror */
     .CodeMirror {
         background: #091722;
