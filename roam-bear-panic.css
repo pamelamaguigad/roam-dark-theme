@@ -164,6 +164,10 @@ body {
         background-color: #091722;
     }
 
+    .bp3-button:not([class*="bp3-intent-"]) {
+        color: #334451;
+    }
+
     /* pop up page completion */
     .bp3-text-overflow-ellipsis {
         color: #111c2a !important;
