@@ -7,6 +7,10 @@ body {
     text-rendering: optimizeLegibility;
 }
 
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
+    font-size: 12px;
+}
+
 @media (prefers-color-scheme: dark) {
     .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button {
         padding: 8px 20px;
