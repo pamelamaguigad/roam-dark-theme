@@ -191,6 +191,15 @@ body {
         border-radius: 3px;
     }
 
+    /* text formatting */
+
+    strong {
+        color: #f9b637;
+    }
+
+    em {
+        color: #b79bcd;
+    }
 
     /* CodeMirror */
     .CodeMirror {
