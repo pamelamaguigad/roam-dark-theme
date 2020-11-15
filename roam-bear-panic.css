@@ -159,6 +159,11 @@ body {
         color: #53c1dc;
     }
 
+    /* block embeds */
+    .rm-embed-container {
+        background-color: #091722;
+    }
+
     /* pop up page completion */
     .bp3-text-overflow-ellipsis {
         color: #111c2a !important;
