@@ -25,7 +25,7 @@ body {
     }
 
 
-    /* Background color for the rest of body */
+    /* background color for the rest of body */
     body {
         background-color: #111c2a;
         font-size: 12px;
@@ -36,9 +36,7 @@ body {
         text-rendering: optimizeLegibility;
     }
 
-    /* styles page titling */
-
-    /* Header - Note title */
+    /* note title */
     .roam-app h1 {
         color: #f9b637 !important;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -50,13 +48,13 @@ body {
         color: #f6f7ed !important;
     }
 
-    /*topbar*/
+    /* topbar */
     .roam-topbar {
         background-color: #111c2a;
         border-bottom: 1px solid #090b10;
     }
 
-    /*sidebar*/
+    /* sidebar */
     .roam-body .roam-app .roam-sidebar-container {
         background-color: #111c2a;
         border-right: 1px solid #090b10;
@@ -78,7 +76,7 @@ body {
         color: #f9b637;
     }
 
-    /*right sidebar*/
+    /* right sidebar */
     #right-sidebar {
         background-color: #111c2a !important;
         border-left: 1px solid #090b10;
@@ -89,7 +87,7 @@ body {
         color: #f9b637;
     }
 
-    /*border between page in daily notes*/
+    /* border between page in daily notes */
     .roam-log-container .roam-log-page {
         border-top: 1px solid #8e743d;
     }
@@ -178,6 +176,7 @@ body {
         border: 1px solid #2d4562;
     }
 
+    /* links */
     a {
     color: #53c1dc;
     }
@@ -209,7 +208,6 @@ body {
     }
 
     /* text formatting */
-
     strong {
         color: #f9b637;
     }
