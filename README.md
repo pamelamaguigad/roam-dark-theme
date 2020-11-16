@@ -1,26 +1,20 @@
-# Roam Research Dark Theme Collection
+# Roam Research Dark Theme
 
-This is my personal collection of dark theme for [Roam Research](https://roamresearch.com). Currently, not of all element on Roam get dark mode but this is sufficient enough for my daily note taking. If you find any element that need to be changed, please let me know.
+This is my go-to dark theme for [Roam Research](https://roamresearch.com). It's a modified version of [adityadaniel](https://github.com/adityadaniel)'s **Roam Panic** theme — which is based on the [Bear](https://bear.app/) app Panic Mode theme.
 
 ## Screenshot
-
-### Roam Dark
-This is my default dark theme. Inspired by John Sundell's [Xcode theme](https://github.com/JohnSundell/XcodeTheme)
-
-![](/roam-dark.png)
-
-### Roam Gotham
-This one is based on [Bear app](https://bear.app/) Gotham theme
-
-![](/roam-bear-gotham.png)
-
-### Roam Panic
-This one is based on [Bear app](https://bear.app/) Panic theme
-
-
 ![](/roam-bear-panic.png)
 
 ## How to use
-You can use [Stylus](https://add0n.com/stylus.html) then copy paste the css to apply theme. 
+1. Create a new page called "_roam/css_".
+2. Create a code block within the page and choose `CSS` in the drop-down menu.
+3. Copy and paste the contents of [roam-bear-panic.css](https://github.com/pamelamaguigad/roam-dark-theme/blob/master/roam-bear-panic.css) in the code block.<br>---<br>
+Alternatively, you can use the CSS `@import` rule to import the contents of the CSS file hosted in this repository.
+```css
+@import url('https://pamelamaguigad.github.io/roam-dark-theme/roam-bear-panic.css');
+```
 
-I'm currently using [Roam Toolkit](https://chrome.google.com/webstore/detail/roam-toolkit/ebckolanhdjilblnkcgcgifaikppnhba) extension. Copy the CSS, choose Custom CSS on extension menu then paste and save. 
+4. As an added option, you can nest the code block under a page link so you have the option to toggle the theme using the page filter.
+
+## Contribution
+The theme is receiving ongoing changes as I continue to optimise my [Roam Research](https://roamresearch.com) workflow. Feel free to make suggestions via [Twitter](https://twitter.com/PamelaMaguigad), create a an issue, or fork this project for your own experimentation 🧪.
