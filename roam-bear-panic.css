@@ -101,7 +101,7 @@ html body {
     .rm-page-ref-tag {
         color: #6f4ebb !important;
         background: #090b10;
-        padding: .1em .6em;
+        padding: 0px 8px;
         border-radius: 12px;
     }
 
