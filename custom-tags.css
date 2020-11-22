@@ -1,0 +1,13 @@
+/* Category Tags */
+span.rm-page-ref[data-tag="Project"],[data-tag="Issue"],[data-tag="Solution"] {
+    background-color: #a33da0;
+  	color: #1E0B1C !important;
+    font-weight: bold;
+}
+
+/* Status Tags */
+span.rm-page-ref[data-tag="Active"],[data-tag="Up Next"],[data-tag="On Hold"],[data-tag="Future"],[data-tag="Archive"],[data-tag="Solved"] {
+    background-color: #6f4ebb;
+  	color: #110B1D !important;
+    font-weight: bold;
+}
