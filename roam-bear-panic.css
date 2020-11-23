@@ -105,6 +105,11 @@ html body {
         border-radius: 12px;
     }
 
+    /* attributes */
+    .rm-attr-ref {
+        color: #f9b637;
+    }
+
     /* square brackets color */
     .rm-page-ref-brackets {
         color: #8e743d;
